@@ -83,3 +83,9 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <a href="https://www.instagram.com/nikhil_pandarge/">
 [<img align="left" alt="nikhil_pandarge | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]</a>
+
+<!----------<a href="https://t.me/harshita248">
+  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+--------------->
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
