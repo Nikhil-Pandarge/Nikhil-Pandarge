@@ -22,7 +22,7 @@
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care Based Systme <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
-- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if in the case of my cup of tea!⚡️
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
 
 <br><br>
@@ -31,7 +31,7 @@
 
 _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cloud/cloud.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -50,7 +50,8 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Pandarge&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Pandarge&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<!------<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Pandarge&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">---->
+
 </p>
 <!--
 <hr>
