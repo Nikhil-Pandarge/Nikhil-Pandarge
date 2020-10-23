@@ -22,7 +22,7 @@
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care Based Systme <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
-- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if in the case of my cup of tea!⚡️
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
 
 <br><br>
@@ -84,8 +84,8 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <a href="https://www.instagram.com/nikhil_pandarge/">
 [<img align="left" alt="nikhil_pandarge | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]</a>
 
-<!----------<a href="LInk">
-  <img align="left" alt="Nikhil's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<!----------<a href="https://t.me/harshita248">
+  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 --------------->
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
