@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>
-    This is Pandarge Nikhil N, a Final Year B.Tech undergraduate pursuing B.Tech (CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
-    A Learning <b>Data Scientist </b>Licence Holder :) <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+    This is Pandarge Nikhil N, a Final Year B.Tech grad(CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
+    A <b>Data Scientist </b>Licence Holder :) <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Rocket.gif" width="18px">and a
     <b>developer</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
@@ -88,9 +88,5 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <a href="https://www.instagram.com/nikhil_pandarge/">
 [<img align="left" alt="nikhil_pandarge | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]</a>
-
-<!----------<a href="https://t.me/harshita248">
-  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 --------------->
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
