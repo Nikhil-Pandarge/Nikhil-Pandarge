@@ -7,9 +7,9 @@
 <p align="center">
   <em>
     This is Pandarge Nikhil N, B.Tech grad(CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
-    A <b>Data Scientist </b>Licence Holder :) <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+	  A <b>Data Scientist Licence Holder</b> :)  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">  <b>Part time Freelancer</b> and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>Wanna life long learner</b>
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
+    <b>Trying to be Gaming developer</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
 
@@ -17,10 +17,11 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; as of Working **_Around 2 years of Experince in Analyst domain_**
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Advance Machine Learning_** 😉
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care Based Systme <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care,Technology to make a Better and Eco Friendly World <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
@@ -88,5 +89,5 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <a href="https://www.instagram.com/nikhil_pandarge/">
 [<img align="left" alt="nikhil_pandarge | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]</a>
---------------->
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
