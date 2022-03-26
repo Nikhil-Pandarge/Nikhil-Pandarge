@@ -43,6 +43,17 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <!-------<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>---->
 <code><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> </a></code>
+### MY TECH STACK:
+#### Machine Learing Stack:
+[![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=0bf)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=f00)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=f77c00)
+
+![NumPy](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
+![Pandas](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-170263?&logo=Matplotlib&logoColor=336791)
+![Seaborn](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)
+![Plotly](https://img.shields.io/badge/-Plotly-1d0180?&logo=Plotly&logoColor=336791)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
