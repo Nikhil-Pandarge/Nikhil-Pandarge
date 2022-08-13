@@ -6,7 +6,8 @@
 
 <p align="center">
   <em>
-    I am Pandarge Nikhil N, B.Tech grad(CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
+    Write a code to make folks smart and lazy!
+    A B.Tech grad(CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
 	  A <b>Data Scientist Licence Holder</b> :)  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">  <b>Part time Freelancer</b> and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>Wanna life long learner</b>
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Rocket.gif" width="18px">and a
     <b>Trying to be Gaming developer</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
