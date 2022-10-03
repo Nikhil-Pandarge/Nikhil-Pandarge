@@ -7,10 +7,14 @@
 
 <p align="center">
   <em>
-    A B.Tech grad(CSE) from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
-	  A <b>Data Scientist Licence Holder</b> :)  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">  <b>Part time Freelancer</b> and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>Wanna life long learner</b>
+   3 Years of experience in Machine Learning, Deep Learning and NLP</a>. <br>
+	A highly analytical demonstrated capabilities in <b>machine learning, statistical modelling, predictive analytics, and
+problem solving.<b> :)  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> I excel in evaluating and interpreting raw data(ETL), developing model
+selection criteria, explainable deep learning, and natural language processing(NLP).&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbspI've routinely worked from
+start to end on multi-domain projects. Have expertise developing and deploying highly scalable machine learning
+models  
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>Trying to be Gaming developer</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
+    <b>Trying to be Senior Data Scientist</b> <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
 
