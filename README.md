@@ -26,7 +26,7 @@ models
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Advance Deep Learning and NLP_** 😉
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on DL and NLP projects &nbsp;!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care,Technology to make a Better and Eco Friendly World <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care,Technology to make a Better and Eco Friendly World...
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
