@@ -96,8 +96,6 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <a href="https://nikhil-pandarge.github.io/">Nikhil_website | Portfolio</a>
 
-<a href="https://www.linkedin.com/in/nikhil-nagesh-pandarge-172552152/">Nikhil_Linkedin | LinkedIn</a>
-
 <a href="https://twitter.com/Nikhil_pandarge">Nikhil Pandarge | Twitter</a>
 
 <a href="https://www.instagram.com/nikhil_pandarge/">nikhil_pandarge | Instagram</a>
