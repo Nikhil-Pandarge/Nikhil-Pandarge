@@ -22,10 +22,10 @@ models
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
-- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; as of Working **_Around 2 years of Experince in Analyst domain_**
-- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Advance Machine Learning_** 😉
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; as of Working **_Around 3 years of Experince in Data Science domain_**
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Advance Deep Learning and NLP_** 😉
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
-- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
+- <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on DL and NLP projects &nbsp;!
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various Data Scince projects, Such as AI Health Care,Technology to make a Better and Eco Friendly World <img alt="GIF" src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/powerup.gif" width="20vw" /> ...
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
 - <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
