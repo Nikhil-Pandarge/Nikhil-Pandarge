@@ -94,16 +94,12 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 # Connect with me <img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="Nikhil_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](/)
+<a href="https://nikhil-pandarge.github.io/">Nikhil_website | Portfolio</a>
 
-<a href="https://www.linkedin.com/in/nikhil-nagesh-pandarge-172552152/">
-	<img align="left" alt="Nikhil_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
-</h1></a>
-<a href="https://twitter.com/Nikhil_pandarge">
-  <img align="left" alt="Nikhil Pandarge | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<a href="https://www.linkedin.com/in/nikhil-nagesh-pandarge-172552152/">Nikhil_Linkedin | LinkedIn</a>
 
-<a href="https://www.instagram.com/nikhil_pandarge/">
-[<img align="left" alt="nikhil_pandarge | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]</a>
+<a href="https://twitter.com/Nikhil_pandarge">Nikhil Pandarge | Twitter</a>
+
+<a href="https://www.instagram.com/nikhil_pandarge/">nikhil_pandarge | Instagram</a>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
